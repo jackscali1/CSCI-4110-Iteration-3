@@ -66,7 +66,7 @@ All files are written using **vanilla HTML/CSS/JS** with no backend required.
 ---
 
 ## 🌐 Live Demo
-> GitHub Pages Link: **[Insert your deployed GitHub Pages link here]**
+> GitHub Pages Link: **(https://jackscali1.github.io/CSCI-4110-Iteration-3/comment-task.html, https://jackscali1.github.io/CSCI-4110-Iteration-3/upload-file.html, https://jackscali1.github.io/CSCI-4110-Iteration-3/mark-complete.html)**
 
 ---
 
